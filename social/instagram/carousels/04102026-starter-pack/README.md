@@ -19,5 +19,5 @@
   tag your group — you know exactly who each one is. 👇
 
   download cabo. it's free.
-- **Buffer ID:** TBD
+- **Buffer ID:** 6abe6c4a8b671f6cc5dba741
 - **Scheduled:** 2026-10-04 18:30 IST (@cabocardgame)
