@@ -5,7 +5,7 @@
 - **Hook:** "SALARY FOUND DEAD ON THE 31ST. CAUSE: UNKNOWN."
 - **Theme:** broadsheet newspaper (rotation: ledger white → midnight green → raspberry wine → broadsheet → receipt)
 - **Slides:** 6 × 1080×1350 PNG, rendered natively (matches established pipeline)
-- **Scheduled:** 2026-10-02 09:30 IST (Buffer: see ledger for ID)
+- **Scheduled:** 2026-10-02 09:30 IST — Buffer ID `6abe310ff2fcbd2a0872c469` (status: scheduled, Instagram type `post` with 6 image assets = carousel)
 
 ## Slide-by-slide copy
 
