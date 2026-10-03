@@ -15,7 +15,7 @@
   >
   > download cabo. it's free.
 - **Scheduled:** 2026-10-05 18:30 IST on @cabocardgame Instagram (evening = carousel post per the rhythm).
-- **Buffer ID:** (filled after scheduling)
+- **Buffer ID:** 6ac091489fdc9f926e6b6c11
 
 ## Slide-by-slide copy
 
