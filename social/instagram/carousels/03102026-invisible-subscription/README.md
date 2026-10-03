@@ -19,4 +19,4 @@
 
   follow @buckministerapp to join the waitlist. something's coming.
 - **Scheduled:** 2026-10-03 18:30 IST, Buckminister Instagram.
-- **Buffer ID:** (filled after scheduling)
+- **Buffer ID:** 6ac08ce4e22a2e5172b2829a — status: scheduled (verified in API response)
