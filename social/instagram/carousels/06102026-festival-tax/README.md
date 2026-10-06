@@ -35,5 +35,5 @@ This year, pay it in advance: ₹2,300 a month, every month.
 
 follow @buckministerapp to join the waitlist. something's coming.
 
-- **Buffer ID:** (filled at schedule time)
+- **Buffer ID:** 6ac45e12b0e0485fb467d990 (status: scheduled, verified in API response)
 - **Scheduled:** 2026-10-06 10:00 IST
