@@ -29,7 +29,7 @@ follow @buckministerapp to join the waitlist. something's coming.
 
 ## Buffer
 
-- Post ID: PENDING — status: PENDING
+- Post ID: 6ac8528b04f06b2e8f76605c — status: scheduled
 - Due: 2026-10-09 10:00 IST (04:30 UTC)
 - Channel: Buckminister Instagram (6aba323eea19ca0bde10ac50)
 - Type: `post` with 6 image assets · needsApproval: false (standing approval 2026-10-05)
