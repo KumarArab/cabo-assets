@@ -31,7 +31,7 @@ follow @buckministerapp to join the waitlist. something's coming.
 
 ## Buffer
 
-- Post ID: TBD — status: scheduled
+- Post ID: 6ac9a3c2bba9419ccbe9cc4d — status: scheduled
 - Due: 2026-10-10 10:00 IST (04:30 UTC)
 - Channel: Buckminister Instagram (6aba323eea19ca0bde10ac50)
 - Type: `post` with 6 image assets · needsApproval: false (standing approval 2026-10-05)
